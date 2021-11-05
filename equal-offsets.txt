@@ -1,0 +1,14 @@
+Just a test to make sure it's working!
+
+pitch  0: (ET: 523.25 Hz) (T: 523.25 Hz), delta: +0.00 cents
+pitch  1: (ET: 554.37 Hz) (T: 554.37 Hz), delta: +0.00 cents
+pitch  2: (ET: 587.33 Hz) (T: 587.33 Hz), delta: +0.00 cents
+pitch  3: (ET: 622.25 Hz) (T: 622.25 Hz), delta: +0.00 cents
+pitch  4: (ET: 659.26 Hz) (T: 659.26 Hz), delta: +0.00 cents
+pitch  5: (ET: 698.46 Hz) (T: 698.46 Hz), delta: +0.00 cents
+pitch  6: (ET: 739.99 Hz) (T: 739.99 Hz), delta: +0.00 cents
+pitch  7: (ET: 783.99 Hz) (T: 783.99 Hz), delta: +0.00 cents
+pitch  8: (ET: 830.61 Hz) (T: 830.61 Hz), delta: +0.00 cents
+pitch  9: (ET: 440.00 Hz) (T: 440.00 Hz), delta: +0.00 cents
+pitch 10: (ET: 466.16 Hz) (T: 466.16 Hz), delta: +0.00 cents
+pitch 11: (ET: 493.88 Hz) (T: 493.88 Hz), delta: +0.00 cents

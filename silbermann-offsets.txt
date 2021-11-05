@@ -1,0 +1,15 @@
+pitch  0: (ET: 523.25 Hz) (T: 524.73 Hz), delta: +4.89 cents
+pitch  1: (ET: 554.37 Hz) (T: 552.28 Hz), delta: -6.52 cents
+pitch  2: (ET: 587.33 Hz) (T: 587.88 Hz), delta: +1.63 cents
+pitch  3: (ET: 622.25 Hz) (T: 625.78 Hz), delta: +9.78 cents
+pitch  4: (ET: 659.26 Hz) (T: 658.63 Hz), delta: -1.63 cents
+pitch  5: (ET: 698.46 Hz) (T: 701.09 Hz), delta: +6.52 cents
+pitch  6: (ET: 739.99 Hz) (T: 737.90 Hz), delta: -4.89 cents
+pitch  7: (ET: 783.99 Hz) (T: 785.47 Hz), delta: +3.26 cents
+pitch  8: (ET: 830.61 Hz) (T: 826.71 Hz), delta: -8.15 cents
+pitch  9: (ET: 440.00 Hz) (T: 440.00 Hz), delta: +0.00 cents
+pitch 10: (ET: 466.16 Hz) (T: 468.36 Hz), delta: +8.15 cents
+pitch 11: (ET: 493.88 Hz) (T: 492.95 Hz), delta: -3.26 cents
+
+Confirmed same as values from Lehman's spreadsheet
+Confirmed same as values from http://www.instrument-tuner.com/temperaments.html
